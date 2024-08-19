@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Leidinggeven",
+    "category": "Management en Leidinggeven",
+    "tips": [
+      "Zorg ervoor dat je medewerkers weten wat je van hen verwacht. Wees duidelijk over de beoogde doelstellingen voor medewerker en team. Formuleer afspraken SMART en bespreek regelmatig de voortgang.",
+      "Geef je medewerkers positieve en negatieve feedback zodra daar aanleiding toe is. Neem een positieve en onderzoekende houding aan wanneer een medewerker een fout heeft gemaakt. Ga met de medewerker op zoek naar oplossingen.",
+      "Plan ruimte in je agenda in om gesprekken met medewerkers voor te bereiden."
+    ],
+    "levels": {
+      "1": {
+        "title": "Geeft richting aan anderen als daar een aanleiding toe is.",
+        "indicators": [
+          "Geeft opdrachten aan medewerkers en collega’s.",
+          "Geeft de medewerker of collega op eenduidige wijze aan wanneer taken gerealiseerd moeten zijn.",
+          "Komt met oplossingen wanneer er problemen in de uitvoering van taken zijn.",
+          "Spreekt medewerkers en collega’s aan op hun bereikte resultaten.",
+          "Geeft richting aan anderen als daar een aanleiding toe is."
+        ]
+      },
+      "2": {
+        "title": "Geeft op eigen initiatief richting aan anderen in het kader van hun taakvervulling.",
+        "indicators": [
+          "Geeft de grenzen/kaders aan waarbinnen iemand dient te functioneren.",
+          "Geeft op voor de ander begrijpelijke wijze aan welke resultaten verwacht worden in iemands functie/rol.",
+          "Stuurt tussentijds bij wanneer de prestaties van medewerkers/collega’s achterblijven.",
+          "Geeft medewerkers/collega’s instructies over de manier waarop doelen gerealiseerd kunnen worden.",
+          "Bespreekt periodiek prestatie-indicatoren met de individuele medewerkers/collega’s die hij/zij aanstuurt."
+        ]
+      },
+      "3": {
+        "title": "Stimuleert anderen in de directe werkomgeving tot effectief gedrag, mede door vertonen van voorbeeldgedrag.",
+        "indicators": [
+          "Stimuleert anderen in de directe werkomgeving sturing te geven op een wijze die gericht is op het behalen van maximale resultaten, mede door het vertonen van voorbeeldgedrag.",
+          "Bespreekt periodiek met medewerkers/collega’s onderwerpen als ‘effectief sturing geven/leidinggeven’.",
+          "Bespreekt met medewerkers/collega’s hun manier van sturing geven.",
+          "Nodigt anderen uit tot het geven van feedback op zijn/haar manier van leidinggeven.",
+          "Geeft aan medewerkers/collega’s aan hoe hun individuele prestatie-indicatoren samenhangen met de doelen van eigen organisatieonderdeel."
+        ]
+      },
+      "4": {
+        "title": "Inspireert en faciliteert anderen binnen de gehele organisatie of het onderdeel tot effectief gedrag, mede door het vertonen van voorbeeldgedrag.",
+        "indicators": [
+          "Inspireert en faciliteert anderen ook buiten de directe werkomgeving om sturing te geven op een wijze die gericht is op het behalen van maximale resultaten, mede door het vertonen van voorbeeldgedrag.",
+          "Stuurt erop dat bijeenkomsten over ‘resultaatgericht managen’ voor leidinggevenden en medewerkers worden georganiseerd.",
+          "Stuurt erop dat medewerkers inzicht krijgen in de resultaten die voor hun organisatie(onderdeel) gelden.",
+          "Spoort anderen aan om maatregelen te nemen wanneer prestaties van organisatie(onderdelen) achterblijven bij de prognose.",
+          "Bespreekt periodiek de door organisatie(onderdelen) behaalde resultaten."
+        ]
+      }
+    }
+  },
+  {
+    "name": "Coachen",
+    "category": "Management en Leidinggeven",
+    "tips": [
+      "Voer regelmatig gesprekken met je coachee over de voortgang van zijn/haar ontwikkelactiviteiten. Stel veel vragen en geef hooguit suggesties voor oplossingen. Maak notities van deze gesprekken.",
+      "Stel duidelijke, specifieke en uitdagende ontwikkeldoelstellingen.",
+      "Stel samen met de coachee vast waar ontwikkelbehoeften liggen, bespreek de prioriteit en haalbaarheid.",
+      "Maak na ieder coachgesprek een notitie over de belangen van je gesprekspartner en of je hier voldoende aandacht aan besteedde.",
+      "Vier de successen van je coachee. Laat iets van je horen of wees aanwezig als hij/zij een belangrijke mijlpaal bereikt."
+    ],
+    "levels": {
+      "1": {
+        "title": "Geeft medewerkers/collega’s/coachees aandacht, hulp en feedback als daar een aanleiding toe is.",
+        "indicators": [
+          "Geeft specifieke feedback aan anderen ten behoeve van hun ontwikkeling.",
+          "Helpt de ander zich bewust te worden van de eigen sterke en zwakke punten.",
+          "Stelt samen met de medewerker/collega/coachee een persoonlijk ontwikkelingsplan op, waarin wordt aangegeven welke ontwikkelingsactiviteit wanneer zal worden ondernomen.",
+          "Geeft medewerkers/collega’s/coachees ruimte om een eigen invulling aan taken te geven.",
+          "Evalueert periodiek de voortgang van de persoonlijke ontwikkeling met de medewerker/collega/coachee."
+        ]
+      },
+      "2": {
+        "title": "Draagt op eigen initiatief bij aan de ontwikkeling van medewerkers/collega’s.",
+        "indicators": [
+          "Maakt tijd vrij om te luisteren naar medewerkers/collega’s/coachees.",
+          "Geeft medewerkers/collega’s/coachees zo nodig hulp bij hun werk.",
+          "Geeft voorbeelden van situaties waarin de medewerker/collega/coachee onvoldoende of juist goed presteerde.",
+          "Wijst anderen op informatie die hun persoonlijke ontwikkeling kan ondersteunen.",
+          "Uit waardering voor goede prestaties van anderen."
+        ]
+      },
+      "3": {
+        "title": "Stimuleert anderen in de directe werkomgeving tot effectief coachen, mede door het vertonen van voorbeeldgedrag.",
+        "indicators": [
+          "Spreekt periodiek met medewerkers/collega’s over het onderwerp ‘effectief coachen’.",
+          "Geeft anderen feedback met betrekking tot hun manier van coachen.",
+          "Stelt vragen aan de medewerker/collega die deze stimuleren om zelf na te denken over zijn/haar eigen manier van coachen.",
+          "Geeft medewerkers/collega’s ruimte om hun persoonlijke ambities vorm te geven.",
+          "Moedigt anderen aan om in uitdagende situaties te stappen waardoor zij kunnen groeien."
+        ]
+      },
+      "4": {
+        "title": "Inspireert en faciliteert anderen ook buiten de directe werkomgeving om effectief te coachen, mede door het vertonen van voorbeeldgedrag.",
+        "indicators": [
+          "Draagt uit dat hij/zij het van belang vindt bijeenkomsten te organiseren op het gebied van leren en coachen.",
+          "Draagt in de organisatie of het onderdeel het belang uit van het ondersteunen van medewerkers bij hun persoonlijke ontwikkeling.",
+          "Schept randvoorwaarden voor ontwikkeling van medewerkers.",
+          "Draagt uit het van belang te vinden dat anderen in de organisatie of het onderdeel zichzelf ontwikkelen om het beste uit zichzelf halen.",
+          "Zorgt op belangrijke momenten zelf beschikbaar te zijn om anderen steun te geven en successen te vieren."
+        ]
+      }
+    }
+  },
+  {
+    "name": "Groepsgericht leidinggeven",
+    "category": "Management en Leidinggeven",
+    "tips": [
+      "Zorg voor een heldere taakverdeling en duidelijke afspraken binnen het team.",
+      "Benoem successen van het team en vier deze samen.",
+      "Stimuleer de samenwerking door taken en verantwoordelijkheden zoveel mogelijk te delen.",
+      "Plan regelmatig teambijeenkomsten om de voortgang en onderlinge samenwerking te bespreken.",
+      "Maak tijd om teamleden te coachen op hun samenwerking en groepsgericht gedrag."
+    ],
+    "levels": {
+      "1": {
+        "title": "Geeft richting aan het team als daar een aanleiding toe is.",
+        "indicators": [
+          "Geeft opdrachten aan het team wanneer dat nodig is.",
+          "Geeft duidelijke instructies over de taakverdeling binnen het team.",
+          "Houdt toezicht op de voortgang van teamactiviteiten."
+        ]
+      },
+      "2": {
+        "title": "Geeft actief en zelfstandig leiding aan het team.",
+        "indicators": [
+          "Bevordert de samenwerking tussen teamleden.",
+          "Bespreekt de voortgang van teamactiviteiten regelmatig met het team.",
+          "Lost problemen binnen het team op door richting en ondersteuning te bieden."
+        ]
+      },
+      "3": {
+        "title": "Stimuleert en inspireert het team om zelfstandig te werken en verantwoordelijkheid te nemen.",
+        "indicators": [
+          "Faciliteert teamleden bij het nemen van verantwoordelijkheid voor hun taken.",
+          "Bespreekt de prestaties van het team in relatie tot de doelen van de organisatie.",
+          "Helpt teamleden bij het ontwikkelen van hun groepsgerichte vaardigheden."
+        ]
+      },
+      "4": {
+        "title": "Inspireert en faciliteert de hele organisatie om effectief in teams te werken.",
+        "indicators": [
+          "Ontwikkelt en communiceert een visie voor teamwerk binnen de organisatie.",
+          "Zorgt ervoor dat samenwerking en teamontwikkeling onderdeel zijn van de organisatiecultuur.",
+          "Ondersteunt leidinggevenden en medewerkers in de organisatie bij het versterken van hun teamgerichte vaardigheden."
+        ]
+      }
+    }
+  },
+  {
+    "name": "Delegeren",
+    "category": "Management en Leidinggeven",
+    "tips": [
+      "Maak een duidelijke taakverdeling en zorg dat iedereen weet wat van hem/haar verwacht wordt.",
+      "Geef medewerkers de ruimte om hun taken op hun eigen manier uit te voeren, binnen de gestelde kaders.",
+      "Monitor de voortgang van gedelegeerde taken zonder de uitvoering te micro-managen.",
+      "Bespreek regelmatig met medewerkers hoe zij hun gedelegeerde taken ervaren en waar zij tegenaan lopen.",
+      "Leer vertrouwen te geven aan medewerkers door hen verantwoordelijkheid te geven voor hun eigen werk."
+    ],
+    "levels": {
+      "1": {
+        "title": "Delegeert taken aan medewerkers of collega's als daar een aanleiding toe is.",
+        "indicators": [
+          "Geeft eenvoudige taken aan anderen wanneer dat nodig is.",
+          "Controleert regelmatig de voortgang van gedelegeerde taken.",
+          "Geeft duidelijke instructies voor de uitvoering van gedelegeerde taken."
+        ]
+      },
+      "2": {
+        "title": "Delegeert zelfstandig en proactief taken aan medewerkers of collega's.",
+        "indicators": [
+          "Delegeert taken op basis van de competenties en capaciteiten van medewerkers.",
+          "Biedt ondersteuning en begeleiding bij gedelegeerde taken waar nodig.",
+          "Geeft medewerkers vertrouwen door verantwoordelijkheid te geven voor hun eigen werk."
+        ]
+      },
+      "3": {
+        "title": "Stimuleert anderen in de directe werkomgeving om effectief te delegeren.",
+        "indicators": [
+          "Helpt collega's bij het identificeren van taken die gedelegeerd kunnen worden.",
+          "Biedt coaching en begeleiding aan anderen in de kunst van het delegeren.",
+          "Geeft medewerkers de ruimte om zelf gedelegeerde taken aan te nemen en uit te voeren."
+        ]
+      },
+      "4": {
+        "title": "Inspireert en faciliteert anderen binnen de gehele organisatie om effectief te delegeren.",
+        "indicators": [
+          "Ontwikkelt en communiceert een duidelijke visie op delegeren binnen de organisatie.",
+          "Ondersteunt leidinggevenden bij het ontwikkelen van hun delegatievaardigheden.",
+          "Faciliteert een cultuur van vertrouwen en verantwoordelijkheid door effectieve delegatie."
+        ]
+      }
+    }
+  },
+  {
+    "name": "Plannen en organiseren",
+    "category": "Management en Leidinggeven",
+    "tips": [
+      "Maak een gedetailleerde planning voor belangrijke projecten en activiteiten.",
+      "Prioriteer taken op basis van urgentie en belang.",
+      "Zorg ervoor dat er voldoende tijd en middelen zijn om geplande taken te voltooien.",
+      "Gebruik hulpmiddelen zoals to-do lijsten, agenda's, en planningssoftware om overzicht te houden.",
+      "Bespreek de planning regelmatig met je team om zeker te zijn dat iedereen op één lijn zit."
+    ],
+    "levels": {
+      "1": {
+        "title": "Plant en organiseert taken voor zichzelf en anderen als daar een aanleiding toe is.",
+        "indicators": [
+          "Maakt eenvoudige planningen voor dagelijkse taken.",
+          "Houdt toezicht op de voortgang van geplande activiteiten.",
+          "Geeft duidelijke instructies voor de uitvoering van geplande taken."
+        ]
+      },
+      "2": {
+        "title": "Plant en organiseert zelfstandig en proactief taken voor zichzelf en anderen.",
+        "indicators": [
+          "Maakt gedetailleerde planningen voor complexe projecten.",
+          "Prioriteert taken en activiteiten op basis van urgentie en belang.",
+          "Zorgt ervoor dat middelen en tijd effectief worden gebruikt om geplande taken te voltooien."
+        ]
+      },
+      "3": {
+        "title": "Stimuleert anderen in de directe werkomgeving om effectief te plannen en te organiseren.",
+        "indicators": [
+          "Helpt collega's bij het maken van effectieve planningen.",
+          "Biedt begeleiding en ondersteuning bij het organiseren van complexe projecten.",
+          "Stimuleert een cultuur van efficiëntie en doelgerichtheid binnen het team."
+        ]
+      },
+      "4": {
+        "title": "Inspireert en faciliteert anderen binnen de gehele organisatie om effectief te plannen en te organiseren.",
+        "indicators": [
+          "Ontwikkelt en communiceert een duidelijke visie op plannen en organiseren binnen de organisatie.",
+          "Ondersteunt leidinggevenden bij het ontwikkelen van hun plannings- en organisatievaardigheden.",
+          "Faciliteert een cultuur van efficiëntie en doelgerichtheid door effectieve planning en organisatie."
+        ]
+      }
+    }
+  },
+  {
+    "name": "Voortgangsbewaking",
+    "category": "Management en Leidinggeven",
+    "tips": [
+      "Zorg voor een systematische aanpak bij het monitoren van de voortgang van projecten en taken.",
+      "Gebruik voortgangsrapportages en regelmatige check-ins om problemen vroegtijdig te signaleren.",
+      "Wees proactief in het aanpassen van plannen als de voortgang achterblijft bij de verwachtingen.",
+      "Betrek je team bij het monitoren van de voortgang en bespreek samen mogelijke verbeterpunten.",
+      "Houd altijd ruimte voor onverwachte gebeurtenissen in je planning."
+    ],
+    "levels": {
+      "1": {
+        "title": "Monitort de voortgang van taken en projecten wanneer daar een aanleiding toe is.",
+        "indicators": [
+          "Controleert periodiek of geplande activiteiten op schema liggen.",
+          "Bespreekt afwijkingen van de planning met betrokkenen.",
+          "Onderneemt actie om achterstanden in te halen."
+        ]
+      },
+      "2": {
+        "title": "Monitort zelfstandig en systematisch de voortgang van taken en projecten.",
+        "indicators": [
+          "Gebruikt voortgangsrapportages en andere middelen om de voortgang te bewaken.",
+          "Signaleert vroegtijdig mogelijke vertragingen en neemt corrigerende maatregelen.",
+          "Biedt ondersteuning aan teamleden bij het inlopen van achterstanden."
+        ]
+      },
+      "3": {
+        "title": "Stimuleert anderen in de directe werkomgeving om de voortgang effectief te bewaken.",
+        "indicators": [
+          "Helpt collega's bij het ontwikkelen van effectieve voortgangsbewakingssystemen.",
+          "Biedt coaching en ondersteuning aan anderen bij het bewaken van de voortgang.",
+          "Stimuleert een cultuur van verantwoordelijkheid en tijdigheid binnen het team."
+        ]
+      },
+      "4": {
+        "title": "Inspireert en faciliteert anderen binnen de gehele organisatie om de voortgang effectief te bewaken.",
+        "indicators": [
+          "Ontwikkelt en communiceert een duidelijke visie op voortgangsbewaking binnen de organisatie.",
+          "Ondersteunt leidinggevenden bij het ontwikkelen van hun voortgangsbewakingsvaardigheden.",
+          "Faciliteert een cultuur van verantwoordelijkheid en tijdigheid door effectieve voortgangsbewaking."
+        ]
+      }
+    }
+  },
+  {
+    "name": "Ondernemerschap",
+    "category": "Ondernemen",
+    "tips": [
+      "Verzamel informatie over de markt, de concurrentie en de doelgroep, lees vakbladen en analyseer deze. Waar liggen kansen voor de organisatie?",
+      "Houd contact met de doelgroep; hoe denken klanten over onze diensten? Vertaal deze informatie naar concrete voorstellen."
+    ],
+    "levels": {
+      "1": {
+        "title": "Signaleert kansen voor het verkopen van producten/diensten en laat zien deze te willen benutten.",
+        "indicators": [
+          "Benoemt vooral kansen in de markt in plaats van risico’s.",
+          "Stelt zichzelf uitdagende commerciële doelen.",
+          "Onderneemt direct actie wanneer zich kansen voordoen om zakelijk voordeel te behalen."
+        ]
+      },
+      "2": {
+        "title": "Neemt zelfstandig acties om mogelijkheden te benutten om producten en diensten te verkopen.",
+        "indicators": [
+          "Geeft medewerkers/collega’s tips met betrekking tot het benutten van verkoopkansen.",
+          "Stimuleert medewerkers/collega’s om ook producten/diensten te verkopen die niet de directe aanleiding waren voor een klantgesprek.",
+          "Toont waardering voor medewerkers/collega’s die kansen in de markt grijpen."
+        ]
+      },
+      "3": {
+        "title": "Stimuleert anderen in de directe werkomgeving om mogelijkheden tot verkoop van producten en diensten te benutten.",
+        "indicators": [
+          "Vertoont voorbeeldgedrag door kansen naar productvoorstellen en businessplannen voor eigen organisatieonderdeel te vertalen.",
+          "Vertaalt kansen in de markt naar businessplannen voor eigen organisatie(onderdeel).",
+          "Komt met voorstellen voor (nieuwe) producten/diensten die aansluiten bij behoeften in de markt."
+        ]
+      },
+      "4": {
+        "title": "Inspireert en faciliteert anderen ook buiten de directe werkomgeving om mogelijkheden tot verkoop van producten en diensten te benutten.",
+        "indicators": [
+          "Vertoont voorbeeldgedrag door strategische kansen te zien en te komen tot een businessplan voor de organisatie of het onderdeel.",
+          "Stuurt aan op het integreren van verschillende businessplannen tot één businessplan voor gehele organisatie(onderdeel).",
+          "Zoekt naar strategische posities in markten die in de toekomstige business zouden passen."
+        ]
+      }
+    }
+  },
+  {
+    "name": "Marktgerichtheid",
+    "category": "Ondernemen",
+    "tips": [
+      "Blijf op de hoogte van ontwikkelingen en trends in de markt door vakliteratuur te lezen en relevante bijeenkomsten bij te wonen.",
+      "Leg contacten met klanten en partners om te achterhalen wat hun behoeften en verwachtingen zijn.",
+      "Analyseer de concurrentie en zoek naar mogelijkheden om je te onderscheiden.",
+      "Speel in op marktontwikkelingen door nieuwe producten of diensten te introduceren.",
+      "Deel marktinformatie en inzichten met collega's om gezamenlijke kansen te benutten."
+    ],
+    "levels": {
+      "1": {
+        "title": "Heeft oog voor ontwikkelingen in de markt en de concurrentie.",
+        "indicators": [
+          "Volgt marktontwikkelingen en signaleert relevante trends.",
+          "Houdt contact met klanten om hun behoeften te achterhalen.",
+          "Analyseert de concurrentie om kansen en bedreigingen te identificeren."
+        ]
+      },
+      "2": {
+        "title": "Onderneemt zelfstandig acties om in te spelen op marktontwikkelingen.",
+        "indicators": [
+          "Past producten en diensten aan op basis van marktinformatie.",
+          "Zoekt actief naar nieuwe mogelijkheden om marktaandeel te vergroten.",
+          "Werkt samen met collega's om gezamenlijk in te spelen op marktontwikkelingen."
+        ]
+      },
+      "3": {
+        "title": "Stimuleert anderen in de directe werkomgeving om marktgericht te denken en handelen.",
+        "indicators": [
+          "Helpt collega's bij het interpreteren van marktinformatie en het ontwikkelen van marktgerichte strategieën.",
+          "Biedt coaching en begeleiding aan anderen bij het ontwikkelen van een marktgerichte mindset.",
+          "Faciliteert kennisdeling en samenwerking binnen het team om marktgerichte kansen te benutten."
+        ]
+      },
+      "4": {
+        "title": "Inspireert en faciliteert anderen binnen de gehele organisatie om marktgericht te denken en handelen.",
+        "indicators": [
+          "Ontwikkelt en communiceert een duidelijke visie op marktgerichtheid binnen de organisatie.",
+          "Ondersteunt leidinggevenden bij het ontwikkelen van hun marktgerichte vaardigheden.",
+          "Faciliteert een cultuur van marktgericht denken en handelen door de organisatie heen."
+        ]
+      }
+    }
+  },
+
+  {
+    "name": "Klantgerichtheid",
+    "category": "Ondernemen",
+    "tips": [
+      "Luister actief naar de behoeften en verwachtingen van klanten.",
+      "Zorg ervoor dat je altijd beschikbaar bent voor klanten, zelfs buiten kantooruren als dat nodig is.",
+      "Ontwikkel oplossingen op maat die aansluiten bij de specifieke wensen van de klant.",
+      "Onderhoud regelmatig contact met klanten om ervoor te zorgen dat ze tevreden zijn met de geboden diensten.",
+      "Streef ernaar om de verwachtingen van klanten te overtreffen door uitstekende service te bieden."
+    ],
+    "levels": {
+      "1": {
+        "title": "Zet zich in voor tevreden klanten door te reageren op hun behoeften en verwachtingen.",
+        "indicators": [
+          "Luistert naar klanten en biedt passende oplossingen.",
+          "Zorgt ervoor dat klanten tevreden zijn met de geboden diensten.",
+          "Reageert snel op vragen en klachten van klanten."
+        ]
+      },
+      "2": {
+        "title": "Neemt zelfstandig initiatieven om klanttevredenheid te vergroten.",
+        "indicators": [
+          "Onderneemt proactief acties om aan de verwachtingen van klanten te voldoen.",
+          "Zoekt naar mogelijkheden om de klantbeleving te verbeteren.",
+          "Houdt regelmatig contact met klanten om hun tevredenheid te peilen."
+        ]
+      },
+      "3": {
+        "title": "Stimuleert anderen in de directe werkomgeving om klantgericht te denken en handelen.",
+        "indicators": [
+          "Helpt collega's bij het ontwikkelen van klantgerichte oplossingen.",
+          "Biedt coaching en begeleiding aan anderen bij het verbeteren van klantgerichtheid.",
+          "Faciliteert een cultuur van klantgerichtheid binnen het team."
+        ]
+      },
+      "4": {
+        "title": "Inspireert en faciliteert anderen binnen de gehele organisatie om klantgericht te denken en handelen.",
+        "indicators": [
+          "Ontwikkelt en communiceert een duidelijke visie op klantgerichtheid binnen de organisatie.",
+          "Ondersteunt leidinggevenden bij het ontwikkelen van hun klantgerichte vaardigheden.",
+          "Faciliteert een cultuur van klantgerichtheid door de organisatie heen."
+        ]
+      }
+    }},
+  {
+    "name": "Netwerken",
+    "category": "Ondernemen",
+    "tips": [
+      "Bezoek relevante netwerkbijeenkomsten en leg contact met nieuwe mensen.",
+      "Onderhoud regelmatig contact met je netwerk, ook wanneer er geen directe aanleiding is.",
+      "Deel informatie en hulpbronnen met je netwerk om wederzijds vertrouwen op te bouwen.",
+      "Maak gebruik van sociale media om je netwerk uit te breiden en te onderhouden.",
+      "Vraag om introducties bij mensen binnen je netwerk om nieuwe connecties te leggen."
+    ],
+    "levels": {
+      "1": {
+        "title": "Onderhoudt contact met bestaande contacten en legt nieuwe contacten wanneer dat nodig is.",
+        "indicators": [
+          "Bouwt relaties op met mensen binnen en buiten de organisatie.",
+          "Onderhoudt regelmatig contact met mensen in zijn/haar netwerk.",
+          "Maakt gebruik van zijn/haar netwerk om informatie en middelen te verkrijgen."
+        ]
+      },
+      "2": {
+        "title": "Neemt zelfstandig initiatieven om zijn/haar netwerk uit te breiden en te onderhouden.",
+        "indicators": [
+          "Bezoekt regelmatig netwerkbijeenkomsten om nieuwe contacten te leggen.",
+          "Deelt informatie en hulpbronnen met zijn/haar netwerk om relaties te versterken.",
+          "Vraagt actief om introducties bij nieuwe contacten via bestaande relaties."
+        ]
+      },
+      "3": {
+        "title": "Stimuleert anderen in de directe werkomgeving om effectief te netwerken.",
+        "indicators": [
+          "Helpt collega's bij het opbouwen en onderhouden van hun netwerk.",
+          "Biedt begeleiding en coaching aan anderen bij het ontwikkelen van hun netwerkvaardigheden.",
+          "Faciliteert kennisdeling en samenwerking binnen het team door effectief netwerken."
+        ]
+      },
+      "4": {
+        "title": "Inspireert en faciliteert anderen binnen de gehele organisatie om effectief te netwerken.",
+        "indicators": [
+          "Ontwikkelt en communiceert een duidelijke visie op netwerken binnen de organisatie.",
+          "Ondersteunt leidinggevenden bij het ontwikkelen van hun netwerkvaardigheden.",
+          "Faciliteert een cultuur van netwerken en samenwerking door de organisatie heen."
+        ]
+      }
+    }
+  },
+  {
+    "name": "Klantgerichtheid",
+    "category": "Ondernemen",
+    "tips": [
+      "Luister actief naar de behoeften en verwachtingen van klanten.",
+      "Zorg ervoor dat je altijd beschikbaar bent voor klanten, zelfs buiten kantooruren als dat nodig is.",
+      "Ontwikkel oplossingen op maat die aansluiten bij de specifieke wensen van de klant.",
+      "Onderhoud regelmatig contact met klanten om ervoor te zorgen dat ze tevreden zijn met de geboden diensten.",
+      "Streef ernaar om de verwachtingen van klanten te overtreffen door uitstekende service te bieden."
+    ],
+    "levels": {
+      "1": {
+        "title": "Zet zich in voor tevreden klanten door te reageren op hun behoeften en verwachtingen.",
+        "indicators": [
+          "Luistert naar klanten en biedt passende oplossingen.",
+          "Zorgt ervoor dat klanten tevreden zijn met de geboden diensten.",
+          "Reageert snel op vragen en klachten van klanten."
+        ]
+      },
+      "2": {
+        "title": "Neemt zelfstandig initiatieven om klanttevredenheid te vergroten.",
+        "indicators": [
+          "Onderneemt proactief acties om aan de verwachtingen van klanten te voldoen.",
+          "Zoekt naar mogelijkheden om de klantbeleving te verbeteren.",
+          "Houdt regelmatig contact met klanten om hun tevredenheid te peilen."
+        ]
+      },
+      "3": {
+        "title": "Stimuleert anderen in de directe werkomgeving om klantgericht te denken en handelen.",
+        "indicators": [
+          "Helpt collega's bij het ontwikkelen van klantgerichte oplossingen.",
+          "Biedt coaching en begeleiding aan anderen bij het verbeteren van klantgerichtheid.",
+          "Faciliteert een cultuur van klantgerichtheid binnen het team."
+        ]
+      },
+      "4": {
+        "title": "Inspireert en faciliteert anderen binnen de gehele organisatie om klantgericht te denken en handelen.",
+        "indicators": [
+          "Ontwikkelt en communiceert een duidelijke visie op klantgerichtheid binnen de organisatie.",
+          "Ondersteunt leidinggevenden bij het ontwikkelen van hun klantgerichte vaardigheden.",
+          "Faciliteert een cultuur van klantgerichtheid door de organisatie heen."
+        ]
+      }
+    },
+]

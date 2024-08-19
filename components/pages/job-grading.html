@@ -1,0 +1,52 @@
+<template x-component="job-grading">
+    <div x-show="navigation == 'jgs'"
+         class="grid grid-cols-12 gap-3  mt-5"
+         x-data="{groups: {}, selectedFamily: $persist({}).using(sessionStorage)}"
+         x-init="groups = get_function_groups();"
+         x-cloak x-transition>
+
+        <div class="col-span-10">
+            <div x-show="Object.keys(selectedFamily).length != 0" x-cloak x-transition class="card lg:card-side bg-base-100 shadow-xl mb-5">
+                <figure>
+                        <span>&nbsp;</span>
+                        <canvas id="jobChart" width="600" height="600"
+                                x-effect="draw_job_chart(selectedFamily.levels)"></canvas>
+                </figure>
+                <div class="card-body w-[40vw]">
+                    <h2 class="card-title" x-text="selectedFamily.name"></h2>
+                    <p>
+                    <ul class='list-outside list-disc ml-6'>
+                        <template x-for="level in selectedFamily.levels">
+                            <li>
+                                <span x-text="level.level"></span>.
+                                <span x-text="level.expectations"></span>
+                                <label class="label cursor-pointer">
+                                    <span class="label-text">Career development goal</span>
+                                    <input type="radio" name="radio-10"
+                                           class="radio checked:bg-blue-500"
+                                           @change="data.profile.careerDevelopmentGoal = level.key;"
+                                           :checked="data.profile.careerDevelopmentGoal == level.key" />
+                                </label>
+                            </li>
+                        </template>
+                    </ul>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-span-2">
+            <ul class="menu bg-base-200 rounded-box w-56">
+                <template x-for="(family,key) in groups" :key="key">
+                    <li>
+                        <a :class="selectedFamily.name == key ? 'active' : ''"
+                           @click="selectedFamily = {name:key, levels: family}">
+                            <i class="fa-solid fa-people-roof"></i>
+                            <span x-text="key"></span>
+                        </a>
+                    </li>
+                </template>
+            </ul>
+        </div>
+    </div>
+</template>

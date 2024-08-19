@@ -1,0 +1,38 @@
+<template x-component="profile">
+    <div x-show="navigation == 'profile'" x-cloak x-transition>
+
+        <div class="card card lg:card-side bg-base-100 shadow-xl"
+             x-effect="draw_competence_chart(data.profile, data.functions,profileChartMode)"
+             x-data="{profileChartMode: $persist('current')}">
+            <figure>
+                <div>
+                <canvas id="competenceChart" width="600" height="600" x-init="$dispatch('draw')"></canvas>
+                    <div class="form-control w-52">
+                        <label class="label cursor-pointer">
+                            <span class="label-text">Show career development goal</span>
+                            <input type="checkbox" class="toggle toggle-primary"
+                                   @change="profileChartMode = $el.checked ? 'goal' : 'current';$dispatch('draw')"
+                                   :checked="profileChartMode != 'current'" />
+                        </label>
+                    </div>
+                </div>
+            </figure>
+            <div class="card-body">
+                <div class="avatar">
+                    <div class="w-24 rounded-full">
+                        <img :src="data.profile.picture" />
+                    </div>
+                </div>
+                <h2 class="card-title" x-text="data.profile.name"></h2>
+                <h4 x-text="data.profile.functionTitle"></h4>
+                <div style="max-width: 30vw">
+                    <p x-text="data.profile.bio">
+                    </p>
+                </div>
+
+            </div>
+        </div>
+
+
+    </div>
+</template>

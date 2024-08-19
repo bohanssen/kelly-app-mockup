@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Leidinggeven",
+        "category": "Management en Leidinggeven",
+        "tips": [
+            "Zorg ervoor dat je medewerkers weten wat je van hen verwacht. Wees duidelijk over de beoogde doelstellingen voor medewerker en team. Formuleer afspraken SMART en bespreek regelmatig de voortgang.",
+            "Geef je medewerkers positieve en negatieve feedback zodra daar aanleiding toe is. Neem een positieve en onderzoekende houding aan wanneer een medewerker een fout heeft gemaakt. Ga met de medewerker op zoek naar oplossingen.",
+            "Plan ruimte in je agenda in om gesprekken met medewerkers voor te bereiden."
+        ],
+        "levels": {
+            "1": {
+                "title": "Geeft richting aan anderen als daar een aanleiding toe is.",
+                "indicators": [
+                    "Geeft opdrachten aan medewerkers en collega\u2019s.",
+                    "Geeft de medewerker of collega op eenduidige wijze aan wanneer taken gerealiseerd moeten zijn.",
+                    "Komt met oplossingen wanneer er problemen in de uitvoering van taken zijn.",
+                    "Spreekt medewerkers en collega\u2019s aan op hun bereikte resultaten.",
+                    "Geeft richting aan anderen als daar een aanleiding toe is."
+                ]
+            },
+            "2": {
+                "title": "Geeft op eigen initiatief richting aan anderen in het kader van hun taakvervulling.",
+                "indicators": [
+                    "Geeft de grenzen/kaders aan waarbinnen iemand dient te functioneren.",
+                    "Geeft op voor de ander begrijpelijke wijze aan welke resultaten verwacht worden in iemands functie/rol.",
+                    "Stuurt tussentijds bij wanneer de prestaties van medewerkers/collega\u2019s achterblijven.",
+                    "Geeft medewerkers/collega\u2019s instructies over de manier waarop doelen gerealiseerd kunnen worden.",
+                    "Bespreekt periodiek prestatie-indicatoren met de individuele medewerkers/collega\u2019s die hij/zij aanstuurt."
+                ]
+            },
+            "3": {
+                "title": "Stimuleert anderen in de directe werkomgeving tot effectief gedrag, mede door vertonen van voorbeeldgedrag.",
+                "indicators": [
+                    "Stimuleert anderen in de directe werkomgeving sturing te geven op een wijze die gericht is op het behalen van maximale resultaten, mede door het vertonen van voorbeeldgedrag.",
+                    "Bespreekt periodiek met medewerkers/collega\u2019s onderwerpen als \u2018effectief sturing geven/leidinggeven\u2019.",
+                    "Bespreekt met medewerkers/collega\u2019s hun manier van sturing geven.",
+                    "Nodigt anderen uit tot het geven van feedback op zijn/haar manier van leidinggeven.",
+                    "Geeft aan medewerkers/collega\u2019s aan hoe hun individuele prestatie-indicatoren samenhangen met de doelen van eigen organisatieonderdeel."
+                ]
+            },
+            "4": {
+                "title": "Inspireert en faciliteert anderen binnen de gehele organisatie of het onderdeel tot effectief gedrag, mede door het vertonen van voorbeeldgedrag.",
+                "indicators": [
+                    "Inspireert en faciliteert anderen ook buiten de directe werkomgeving om sturing te geven op een wijze die gericht is op het behalen van maximale resultaten, mede door het vertonen van voorbeeldgedrag.",
+                    "Stuurt erop dat bijeenkomsten over \u2018resultaatgericht managen\u2019 voor leidinggevenden en medewerkers worden georganiseerd.",
+                    "Stuurt erop dat medewerkers inzicht krijgen in de resultaten die voor hun organisatie(onderdeel) gelden.",
+                    "Spoort anderen aan om maatregelen te nemen wanneer prestaties van organisatie(onderdelen) achterblijven bij de prognose.",
+                    "Bespreekt periodiek de door organisatie(onderdelen) behaalde resultaten."
+                ]
+            }
+        }
+    },
+    {
+        "name": "Coachen",
+        "category": "Management en Leidinggeven",
+        "tips": [
+            "Voer regelmatig gesprekken met je coachee over de voortang van zijn/haar ontwikkelactiviteiten. Stel veel vragen en geef hooguit suggesties voor oplossingen. Maak notities van deze gesprekken.",
+            "Stel duidelijke, specifieke en uitdagende ontwikkeldoelstellingen.",
+            "Stel samen met de coachee vast waar ontwikkelbehoeften liggen, bespreek de prioriteit en haalbaarheid.",
+            "Maak na ieder coachgesprek een notitie over de belangen van je gesprekspartner en of je hier voldoende aandacht aan besteedde.",
+            "Vier de successen van je coachee. Laat iets van je horen of wees aanwezig als hij/zij een belangrijke mijlpaal bereikt."
+        ],
+        "levels": {
+            "1": {
+                "title": "Geeft medewerkers/ collega\u2019s/ coachees aandacht, hulp en feedback als daar een aanleiding toe is.",
+                "indicators": [
+                    "Geeft specifieke feedback aan anderen ten behoeve van hun ontwikkeling.",
+                    "Helpt de ander zich bewust te worden van de eigen sterke en zwakke punten.",
+                    "Stelt samen met de medewerker/ collega/ coachee een persoonlijk ontwikkelingsplan op, waarin wordt aangegeven welke ontwikkelingsactiviteit wanneer zal worden ondernomen.",
+                    "Geeft medewerkers/ collega\u2019s/ coachees ruimte om een eigen invulling aan taken te geven.",
+                    "Evalueert periodiek de voortgang van de persoonlijke ontwikkeling met de medewerker/ collega/ coachee."
+                ]
+            },
+            "2": {
+                "title": "Draagt op eigen initiatief bij aan de ontwikkeling van medewerkers/ collega\u2019s.",
+                "indicators": [
+                    "Maakt tijd vrij om te luisteren naar medewerkers/ collega\u2019s/ coachees.",
+                    "Geeft medewerkers/ collega\u2019s/ coachees zo nodig hulp bij hun werk.",
+                    "Geeft voorbeelden van situaties waarin de medewerker/ collega/ coachee onvoldoende of juist goed presteerde.",
+                    "Wijst anderen op informatie die hun persoonlijke ontwikkeling kan ondersteunen.",
+                    "Uit waardering voor goede prestaties van anderen."
+                ]
+            },
+            "3": {
+                "title": "Stimuleert anderen in de directe werkomgeving tot effectief coachen, mede door het vertonen van voorbeeldgedrag.",
+                "indicators": [
+                    "Spreekt periodiek met medewerkers/ collega\u2019s over het onderwerp \u2018effectief coachen\u2019.",
+                    "Geeft anderen feedback met betrekking tot hun manier van coachen.",
+                    "Stelt vragen aan de medewerker/ collega die deze stimuleren om zelf na te denken over zijn/haar eigen manier van coachen.",
+                    "Geeft medewerkers/ collega\u2019s ruimte om hun persoonlijke ambities vorm te geven.",
+                    "Moedigt anderen aan om in uitdagende situaties te stappen waardoor zij kunnen groeien."
+                ]
+            },
+            "4": {
+                "title": "Inspireert en faciliteert anderen ook buiten de directe werkomgeving om effectief te coachen, mede door het vertonen van voorbeeldgedrag.",
+                "indicators": [
+                    "Draagt uit dat hij/zij het van belang vindt bijeenkomsten te organiseren op het gebied van leren en coachen.",
+                    "Draagt in de organisatie of het onderdeel het belang uit van het ondersteunen van medewerkers bij hun persoonlijke ontwikkeling.",
+                    "Schept randvoorwaarden voor ontwikkeling van medewerkers.",
+                    "Draagt uit het van belang te vinden dat anderen in de organisatie of het onderdeel zichzelf ontwikkelen om het beste uit zichzelf halen.",
+                    "Zorgt op belangrijke momenten zelf beschikbaar te zijn om anderen steun te geven en successen te vieren."
+                ]
+            }
+        }
+    }
+]

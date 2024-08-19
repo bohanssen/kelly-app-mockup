@@ -1,0 +1,39 @@
+<template x-component="navigation">
+    <div>
+        <ul class="menu bg-base-200 rounded-box w-56">
+            <li>
+                <a :class="navigation == 'profile' ? 'active' : ''"
+                   @click="navigation = 'profile';location.reload();">
+                    <i class="fa-regular fa-address-card"></i>
+                    My Profile
+                </a>
+            </li>
+            <li>
+                <a :class="navigation == 'pdp' ? 'active' : ''"
+                   @click="navigation = 'pdp'">
+                    <i class="fa-solid fa-arrow-up-right-dots"></i>
+                    Personal Development Plan
+                </a>
+            </li>
+        </ul>
+
+        <ul class="menu bg-base-200 rounded-box w-56 mt-5">
+            <li>
+                <a :class="navigation == 'jgs' ? 'active' : ''"
+                   @click="navigation = 'jgs'">
+                    <i class="fa-regular fa-building"></i>
+                    Job Grading System
+                </a>
+            </li>
+            <li>
+                <a :class="navigation == 'competences' ? 'active' : ''"
+                   @click="navigation = 'competences'">
+                    <i class="fa-solid fa-briefcase"></i>
+                    Competences
+                </a>
+            </li>
+        </ul>
+
+    </div>
+
+</template>

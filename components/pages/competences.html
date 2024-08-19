@@ -1,0 +1,45 @@
+<template x-component="competences">
+    <div x-show="navigation == 'competences'" x-cloak x-transition>
+        <div class="grid grid-cols-12 gap-3  mt-5"
+             x-init="if(Object.keys(selectedCompetence).length == 0){selectedCompetence = competences.at(0)}"
+             x-data="{selectedCompetence: {}}">
+            <div class="col-span-10">
+
+                <template x-for="index in ['1','2','3','4']">
+                    <div class="card lg:card-side bg-base-100 shadow-xl mb-5">
+                        <figure>
+                            <img :src="`https://picsum.photos/seed/${selectedCompetence.name}${index}/500?grayscale`"/>
+                        </figure>
+                        <div class="card-body w-[50vw]">
+                            <h2 class="card-title"><span x-text="index"></span>. <span x-text="selectedCompetence.levels[index].title"></span></h2>
+                            <p>
+                            <ul class='list-outside list-disc ml-6'>
+                                <template x-for="indicator in selectedCompetence.levels[index].indicators">
+                                    <li x-text="indicator"></li>
+                                </template>
+                            </ul>
+                            </p>
+                        </div>
+                    </div>
+                </template>
+
+            </div>
+
+            <div class="col-span-2">
+
+                <ul class="menu bg-base-200 rounded-box w-56">
+                    <template x-for="(competence,index) in competences" :key="competence.name">
+                        <li>
+                            <a :class="selectedCompetence.name == competence.name ? 'active' : ''"
+                               @click="selectedCompetence = competence">
+                                <i class="fa-solid fa-bullseye"></i>
+                                <span x-text="competence.name"></span>
+                            </a>
+                        </li>
+                    </template>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</template>
